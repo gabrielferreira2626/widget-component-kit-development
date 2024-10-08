@@ -1,1 +1,1 @@
-# widget-component-kit-development
+# Widget Development Kit
